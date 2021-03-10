@@ -1,4 +1,6 @@
 .header {
+  position: relative;
+  z-index: 2;
   //hamburger open styles
   &.open {
     .header__toggle {
